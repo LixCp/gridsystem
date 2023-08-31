@@ -6,6 +6,14 @@ Simple template to build responsive websites easily
 ```shell
 <link rel="stylesheet" href="https://raw.githubusercontent.com/lixcp/gridsystem/master/grid.css" crossorigin="anonymous" referrerpolicy="no-referrer">
 ```
+# BrakingPoints
+
+`576px` => 'xs'
+`768px` => 'md'
+`992px` => 'lg'
+`1200px` => 'xl'
+`1400px` => 'xxl'
+
 # ForUse
 
 ```html
