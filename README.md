@@ -4,7 +4,7 @@ Simple template to build responsive websites easily
 # Installation
 
 ```shell
-<link rel="stylesheet" href="https://raw.githubusercontent.com/lixcp/gridsystem/master/grid.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lixcp/gridsystem/grid.css" crossorigin="anonymous" referrerpolicy="no-referrer">
 ```
 # BreakingPoints
 
